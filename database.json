@@ -1,5 +1,4 @@
-                        
- {                       
+  {                       
     "productos":    [
 
                         {"produtID": 0,
@@ -227,5 +226,27 @@
                         "talla": "42",
                         "stock": 2
                         }
-                    ]
+                    ],
+
+    "usuarios":     [
+                        {
+                          "uid": 0,
+                          "tipo": "admin",
+                          "usuario": "Juan Carlos",
+                          "email": "juancarlos@retrodenda.eus",
+                          "password": "123456"
+                        },
+
+                        {
+                          "uid": 11,
+                          "tipo": "client",
+                          "usuario": "JuanCar",
+                          "email": "juancarlos@gmail.com",
+                          "password": "12345"
+                        }
+
+
+
+
+    ]            
 }
