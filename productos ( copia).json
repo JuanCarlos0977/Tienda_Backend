@@ -34,6 +34,17 @@
       "id": "9b35"
     },
     {
+      "produtID": 3,
+      "categoria": "bolsos",
+      "productName": "Mochila Azul",
+      "imagen": "../assets/img/bolsos/mochila-azul.png",
+      "precio": 45,
+      "descripcion": "Mochila azul para ir al monte",
+      "talla": "mediano",
+      "stock": 10,
+      "id": "08d2"
+    },
+    {
       "produtID": 4,
       "categoria": "bolsos",
       "productName": "Mochila Oscura",
@@ -76,6 +87,17 @@
       "talla": "XL",
       "stock": 10,
       "id": "e1df"
+    },
+    {
+      "produtID": 8,
+      "categoria": "camisas",
+      "productName": "Camisa estampada verde",
+      "imagen": "../assets/img/camisas/camisa-hombre-4.png",
+      "precio": 45,
+      "descripcion": "Camisa estampada en color verde",
+      "talla": "M",
+      "stock": 5,
+      "id": "8b60"
     },
     {
       "produtID": 9,
