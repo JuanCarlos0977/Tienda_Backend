@@ -231,7 +231,7 @@
     "usuarios":     [
                         {
                           "uid": 0,
-                          "tipo": "admin",
+                          "admin": true,
                           "usuario": "Juan Carlos",
                           "email": "juancarlos@retrodenda.eus",
                           "password": "123456"
@@ -239,7 +239,7 @@
 
                         {
                           "uid": 11,
-                          "tipo": "client",
+                          "admin": false,
                           "usuario": "JuanCar",
                           "email": "juancarlos@gmail.com",
                           "password": "12345"
